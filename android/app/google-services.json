@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "87076668498",
+    "project_id": "happy-chicken-e7368",
+    "storage_bucket": "happy-chicken-e7368.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:87076668498:android:418f665839b905d81ecb8b",
+        "android_client_info": {
+          "package_name": "com.example.happy_chicken_restaurant"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAX3TGUzXLbLGwNBC8Lz2owzLytViswvC8"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:87076668498:android:030b3ea1317359241ecb8b",
+        "android_client_info": {
+          "package_name": "com.happyChicken.happy_chicken"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAX3TGUzXLbLGwNBC8Lz2owzLytViswvC8"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
